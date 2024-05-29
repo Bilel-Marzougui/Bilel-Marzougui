@@ -2,7 +2,7 @@
 
 
 
-##🌟 About Me
+## 🌟 About Me
 
 💼 **Professional Background**: Engineer, Bac +5 ,Experienced in developing high-quality Android and cross platforme applications.
 
