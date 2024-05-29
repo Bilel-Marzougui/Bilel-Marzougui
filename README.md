@@ -34,4 +34,4 @@
 
 
 ## 🚀 Let's Collaborate
- I'm always eager to collaborate on innovative projects and contribute to the Android developer community. If you have an idea or project in mind, feel free to (reach out!)[https://www.linkedin.com/in/bilel-marzougui-7b667714a/]
+ I'm always eager to collaborate on innovative projects and contribute to the Android developer community. If you have an idea or project in mind, feel free to [reach out!](https://www.linkedin.com/in/bilel-marzougui-7b667714a/)
