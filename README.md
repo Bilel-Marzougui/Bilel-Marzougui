@@ -25,9 +25,13 @@ Health Monitoring: A medical app to remotely monitor the condition of COVID-19 p
 🌐 Connect with Me
 
 Phone: +33660958066
+
 LinkedIn: [linkedin.com/in/bilelmarzougui](https://www.linkedin.com/in/bilel-marzougui-7b667714a/)
+
 Twitter: @BilelAndroidDev
+
 Website/Portfolio: bilelmarzougui.dev
+
 
 🚀 Let's Collaborate
 I'm always eager to collaborate on innovative projects and contribute to the Android developer community. If you have an idea or project in mind, feel free to reach out!
