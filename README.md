@@ -1,10 +1,10 @@
-# 👋 Hi there! I'm **Bilel Marzougui**, a passionate Android Developer dedicated to crafting robust and user-friendly mobile applications. 🚀
+# 👋 Hi there! I'm Bilel Marzougui, a passionate Android Developer dedicated to crafting robust and user-friendly mobile applications. 🚀
 
 
 
-### 🌟 About Me
+## 🌟 About Me
 
-      💼 **Professional Background: Engineer, Bac +5 ,Experienced in developing high-quality Android and cross platforme applications.
+      💼 **Professional Background**: Engineer, Bac +5 ,Experienced in developing high-quality Android and cross platforme applications.
       
       🔍 **Focus Areas**: Android App Development, UI/UX Design, MVC and MVVM Architecture, Dependency Injection (Dagger/Hilt), API Integration.
       
