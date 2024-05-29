@@ -2,7 +2,7 @@
 
 
 
-## 🌟 **About Me**
+## 🌟 About Me
 
       💼 **Professional Background**: Engineer, Bac +5 ,Experienced in developing high-quality Android and cross platforme applications.
       
@@ -13,7 +13,7 @@
       💡 **Innovative Projects**: Developed a variety of applications in E-commerce and medicale softwears, always emphasizing smooth user experiences and maintainability.
 
 
-## 📂 **Featured Projects** : 
+## 📂 Featured Projects : 
 
       **Scores**: A medical application presents a series of questions adapted to different pathological to facilitate diagnosis..
       
@@ -22,7 +22,7 @@
       **Health Monitoring**: A medical app to remotely monitor the condition of COVID-19 patients, trigger notifications in case of danger.
 
 
-## 🌐 **Connect with Me**
+## 🌐 Connect with Me : 
 
       **Phone**: +33660958066
       
@@ -33,6 +33,6 @@
       **Website/Portfolio**: bilelmarzougui.dev
 
 
-## 🚀 **Let's Collaborate**
+## 🚀 Let's Collaborate :
       I'm always eager to collaborate on innovative projects and contribute to the Android developer community. If you have an idea or project in mind, feel free to reach out!
       https://www.linkedin.com/in/bilel-marzougui-7b667714a/
